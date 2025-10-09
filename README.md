@@ -552,3 +552,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by the HealthAI Assistant Community**
 
 </div>
+#   M e d i o r a  
+ 
