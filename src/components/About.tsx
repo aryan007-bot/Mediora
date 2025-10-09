@@ -10,7 +10,7 @@ export default function About() {
     >
       <div className="max-w-2xl mx-auto space-y-8">
         <section className="prose prose-blue max-w-none">
-          <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-3">About Medvora</h3>
+          <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-3">About Mediora</h3>
           <p className="text-gray-600 dark:text-gray-400">
             Mediora is an AI-first personal healthcare assistant designed to help users understand medical information quickly and confidently. It combines natural language understanding with curated medical knowledge to provide features such as symptom guidance, medication interaction checks, medical-term explanations, and concise report summaries.
           </p>
