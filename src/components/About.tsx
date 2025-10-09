@@ -12,7 +12,7 @@ export default function About() {
         <section className="prose prose-blue max-w-none">
           <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-3">About Medvora</h3>
           <p className="text-gray-600 dark:text-gray-400">
-            Medvora is an AI-first personal healthcare assistant designed to help users understand medical information quickly and confidently. It combines natural language understanding with curated medical knowledge to provide features such as symptom guidance, medication interaction checks, medical-term explanations, and concise report summaries.
+            Mediora is an AI-first personal healthcare assistant designed to help users understand medical information quickly and confidently. It combines natural language understanding with curated medical knowledge to provide features such as symptom guidance, medication interaction checks, medical-term explanations, and concise report summaries.
           </p>
           <p className="text-gray-600 dark:text-gray-400">
             Our goal is to make trustworthy health information accessible while encouraging users to consult licensed professionals for diagnosis and treatment. Medvora focuses on clarity, privacy, and useful next-steps so people can make better informed decisions about their health.
@@ -29,9 +29,9 @@ export default function About() {
                 className="w-24 h-24 rounded-full object-cover border-4 border-white dark:border-gray-700 shadow-lg"
               />
               <div>
-                <h4 className="text-xl font-bold text-gray-800 dark:text-gray-200">Medvora Team</h4>
+                <h4 className="text-xl font-bold text-gray-800 dark:text-gray-200">Mediora Team</h4>
                 <p className="text-gray-600 dark:text-gray-400 mt-2">
-                  Medvora is maintained by a small team focused on building practical AI tools for healthcare. We prioritize accuracy, privacy, and clear next steps so users can make better informed choices.
+                  Mediora is maintained by a small team focused on building practical AI tools for healthcare. We prioritize accuracy, privacy, and clear next steps so users can make better informed choices.
                 </p>
                 <div className="flex flex-wrap gap-4 mt-4">
                   <a
