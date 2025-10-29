@@ -11,9 +11,15 @@ type Doctor = {
 };
 
 const doctors: Doctor[] = [
-  { id: 1, name: 'Dr. Aisha Verma', specialization: 'Cardiologist', experience: '10 years', rating: 4.8, image: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
-  { id: 2, name: 'Dr. Rohan Mehta', specialization: 'Dermatologist', experience: '7 years', rating: 4.5, image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
-  { id: 3, name: 'Dr. Priya Singh', specialization: 'Neurologist', experience: '9 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
+  { id: 1, name: 'Dr. Aisha Verma', specialization: 'Cardiologist', experience: '10 years', rating: 4.8, image: 'https://images.unsplash.com/photo-1587500154541-1cafd74f0efc?q=80&w=600&auto=format&fit=crop' },
+  { id: 2, name: 'Dr. Rohan Mehta', specialization: 'Dermatologist', experience: '7 years', rating: 4.5, image: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=600&auto=format&fit=crop' },
+  { id: 3, name: 'Dr. Priya Singh', specialization: 'Neurologist', experience: '9 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=600&auto=format&fit=crop' },
+  { id: 4, name: 'Dr. Arjun Kapoor', specialization: 'Orthopedic Surgeon', experience: '12 years', rating: 4.7, image: 'https://images.unsplash.com/photo-1622902046580-2b47f47f5471?q=80&w=600&auto=format&fit=crop' },
+  { id: 5, name: 'Dr. Sarah Khan', specialization: 'Pediatrician', experience: '8 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1582750433449-648ed127bb54?q=80&w=600&auto=format&fit=crop' },
+  { id: 6, name: 'Dr. Vikram Reddy', specialization: 'ENT Specialist', experience: '11 years', rating: 4.6, image: 'https://images.unsplash.com/photo-1637059824899-a441006a6875?q=80&w=600&auto=format&fit=crop' },
+  { id: 7, name: 'Dr. Zara Ahmed', specialization: 'Gynecologist', experience: '9 years', rating: 4.8, image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?q=80&w=600&auto=format&fit=crop' },
+  { id: 8, name: 'Dr. Raj Malhotra', specialization: 'Psychiatrist', experience: '15 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1612531386530-97286d97c2d2?q=80&w=600&auto=format&fit=crop' },
+  { id: 9, name: 'Dr. Maya Patel', specialization: 'Ophthalmologist', experience: '10 years', rating: 4.7, image: 'https://images.unsplash.com/photo-1651008376811-b90baee60c1f?q=80&w=600&auto=format&fit=crop' },
 ];
 
 export default function DoctorAppointment() {
