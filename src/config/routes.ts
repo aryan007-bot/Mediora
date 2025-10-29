@@ -11,6 +11,7 @@ export const routeMap: Record<string, string> = {
   'policy': '/policy-query',
   'emergency': '/emergency',
   'about': '/about',
+  'doctor-appointment': '/doctor-appointment',
 };
 
 // Reverse mapping from paths to IDs

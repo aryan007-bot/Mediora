@@ -18,6 +18,7 @@ export const navigationItems: NavItem[] = [
       { id: 'drugs', name: 'Drug Interactions', icon: Pill },
       { id: 'terms', name: 'Medical Terms', icon: BookOpen },
       { id: 'medical-image', name: 'Medical Image Analyzer', icon: Scan },
+      { id: 'doctor-appointment', name: 'Doctor Appointments', icon: Stethoscope },
       { id: 'medicine', name: 'Medicine Analyzer', icon: Camera },
     ]
   },

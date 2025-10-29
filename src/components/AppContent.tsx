@@ -10,6 +10,7 @@ import HealthcareChat from './HealthcareChat';
 import Emergency from './Emergency';
 import MedicalImageAnalyzer from './MedicalImageAnalyzer';
 import MedicineAnalyzer from './MedicineAnalyzer';
+import DoctorAppointment from './DoctorAppointment';
 import { Navbar } from './navigation/Navbar';
 import HealthcareLogo from './HealthcareLogo';
 
@@ -33,6 +34,7 @@ export default function AppContent() {
                 <Route path="/report-summarizer" element={<ReportSummarizer />} />
                 <Route path="/policy-query" element={<PolicyQueryAssistant />} />
                 <Route path="/emergency" element={<Emergency />} />
+                <Route path="/doctor-appointment" element={<DoctorAppointment />} />
                 <Route path="/about" element={<About />} />
               </Routes>
             </div>
