@@ -11,9 +11,9 @@ type Doctor = {
 };
 
 const doctors: Doctor[] = [
-  { id: 1, name: 'Dr. Aisha Verma', specialization: 'Cardiologist', experience: '10 years', rating: 4.8, image: 'https://images.unsplash.com/photo-1551601651-6b3c9f2f0b07?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3&s=4b7f5b3f5c3a1c2f' },
-  { id: 2, name: 'Dr. Rohan Mehta', specialization: 'Dermatologist', experience: '7 years', rating: 4.5, image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3&s=2f0c6b4f5a1b3c6d' },
-  { id: 3, name: 'Dr. Priya Singh', specialization: 'Neurologist', experience: '9 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1537368910025-700350fe46c7?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3&s=7b9d9c2d4a5f1b6c' },
+  { id: 1, name: 'Dr. Aisha Verma', specialization: 'Cardiologist', experience: '10 years', rating: 4.8, image: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
+  { id: 2, name: 'Dr. Rohan Mehta', specialization: 'Dermatologist', experience: '7 years', rating: 4.5, image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
+  { id: 3, name: 'Dr. Priya Singh', specialization: 'Neurologist', experience: '9 years', rating: 4.9, image: 'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?q=80&w=600&auto=format&fit=crop&ixlib=rb-4.0.3' },
 ];
 
 export default function DoctorAppointment() {
